@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">pizzaDB</string>
+    <string name="title_text">Заказы пиццы</string>
+    <string name="save_text">Сохранить</string>
+</resources>
