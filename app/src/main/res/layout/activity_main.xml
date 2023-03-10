@@ -34,4 +34,9 @@
         android:layout_height="wrap_content"
         android:id="@+id/insert_button"
         android:text="@string/save_text"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/show_text"
+        android:id="@+id/show_button"/>
 </LinearLayout>
